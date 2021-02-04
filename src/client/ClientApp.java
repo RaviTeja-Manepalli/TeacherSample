@@ -37,6 +37,7 @@ public class ClientApp {
 
 		} while (choice != 3);
 		sc.close();
+		System.out.println("School name is ABCXYZ");
 
 	}
 
